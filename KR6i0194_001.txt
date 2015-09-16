@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:24.493163
+#+DATE: 2015-08-30 20:12:26.171377
 #+TITLE: 佛說無垢賢女經
 #+PROPERTY: CBETA_ID T14n0562
 #+PROPERTY: ID KR6i0194
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 562
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0194_T_000-0913b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0194_T_001-0913b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.562[Nos.563,564]¶
-
- 佛說無垢賢女經¶
+No. 562 [Nos. 563, 564]¶
+佛說無垢賢女經¶
 ¶
 西晉月氏三藏竺法護譯¶
 
